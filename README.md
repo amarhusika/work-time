@@ -31,7 +31,7 @@ Track your work/study time using this program.
 ## Linux setup
 - run `sudo apt install gcc`
 - run `g++ main.cpp -o work`
-- run `work`
+- run `./work`
 
 
 ## Screenshot
